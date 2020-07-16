@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on codex</title>
+    <link>scentcir.github.io/</link>
+    <description>Recent content in Content on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 01:01:49 +0800</lastBuildDate>
+    
+	<atom:link href="scentcir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bolg</title>
+      <link>scentcir.github.io/post/bolg/</link>
+      <pubDate>Thu, 16 Jul 2020 00:43:49 +0800</pubDate>
+      
+      <guid>scentcir.github.io/post/bolg/</guid>
+      <description>2016年10月13日，在杭州云栖大会的开幕式上，马云首次提出“新零售”概念，紧接着，同年11月11日，国务院办公厅印发《关于推动实体零售创新转型的意见》，明确了推动我国实体零售创新转型的指导思想和基本原则。在双重“利好”刺激之下，2017年“新零售”掀起了一波又一波实体零售的转型创新浪潮。全国百强的零售企业中，自建电商平台的比例已经超过了50%。2018年一股“新零售+”的浪潮开始席卷商业零售以外的行业，成为新的风口。
+J.PARK珠宝公园是佳峰集团旗下，顺应新消费群体追求生活品质化、个性化需求，而设立的一个以珠宝定制为主的科技创新综合服务平台。J.PARK珠宝公园以互联网为渠道，通过直播等方式，无缝打通消费者需求和设计、制造和服务，打通珠宝产品从矿产资源到终端消费者的垂直通道。
+Default post frontmatter: The title of your post. Default value is generated From the markdown filename title: &amp;ldquo;{{ replace .TranslationBaseName &amp;ldquo;-&amp;rdquo; &amp;quot; &amp;quot; | title }}&amp;rdquo;
+The date the post was created date: {{ .Date }}
+The post filename slug: &amp;quot;&amp;rdquo;
+Post description used for seo description: &amp;quot;&amp;rdquo;
+Post keywords used for seo keywords: []
+If true, the blog post will not be included in static build draft: true</description>
+    </item>
+    
+  </channel>
+</rss>

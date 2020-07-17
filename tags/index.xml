@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>BUSINESS</title>
-      <link>http://holazxy.com/tags/business/</link>
+      <title>Article</title>
+      <link>http://holazxy.com/tags/article/</link>
       <pubDate>Fri, 17 Jul 2020 00:34:48 +0800</pubDate>
       
-      <guid>http://holazxy.com/tags/business/</guid>
+      <guid>http://holazxy.com/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://holazxy.com/tags/project/</link>
+      <pubDate>Wed, 17 Jul 2019 20:35:51 +0800</pubDate>
+      
+      <guid>http://holazxy.com/tags/project/</guid>
       <description></description>
     </item>
     

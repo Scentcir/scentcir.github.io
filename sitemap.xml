@@ -3,16 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://holazxy.com/blog/blog-post/</loc>
+    <lastmod>2020-07-17T00:34:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holazxy.com/blog/</loc>
+    <lastmod>2020-07-17T00:34:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holazxy.com/tags/business/</loc>
+    <lastmod>2020-07-17T00:34:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holazxy.com/tags/</loc>
+    <lastmod>2020-07-17T00:34:48+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://holazxy.com/</loc>
     <lastmod>2020-07-16T01:01:49+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://holazxy.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://holazxy.com/tags/</loc>
   </url>
   
 </urlset>

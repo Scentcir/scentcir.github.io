@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Xiangyuan Zhou</title>
-    <link>https://example.org/work/</link>
+    <link>https://github.com/Scentcir/scentcir.github.io/work/</link>
     <description>Recent content in Works on Xiangyuan Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Wed, 17 Jul 2019 20:35:51 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Scentcir/scentcir.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Huayang Website</title>
-      <link>https://example.org/work/huayang/</link>
+      <link>https://github.com/Scentcir/scentcir.github.io/work/huayang/</link>
       <pubDate>Wed, 17 Jul 2019 20:35:51 +0800</pubDate>
       
-      <guid>https://example.org/work/huayang/</guid>
+      <guid>https://github.com/Scentcir/scentcir.github.io/work/huayang/</guid>
       <description></description>
     </item>
     

@@ -27,5 +27,14 @@ If true, the blog post will not be included in static build draft: true
 Categorize your post with tags tags: []</description>
     </item>
     
+    <item>
+      <title>Huayang Website</title>
+      <link>https://holazxy.com/work/huayang/</link>
+      <pubDate>Wed, 17 Jul 2019 20:35:51 +0800</pubDate>
+      
+      <guid>https://holazxy.com/work/huayang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

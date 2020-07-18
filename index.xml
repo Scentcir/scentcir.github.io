@@ -31,11 +31,11 @@
     </item>
     
     <item>
-      <title>“使用Wordpress建立自己的博客”</title>
-      <link>https://holazxy.com/blog//</link>
+      <title>使用Wordpress建立自己的博客</title>
+      <link>https://holazxy.com/blog/%E4%BD%BF%E7%94%A8wordpress%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2//</link>
       <pubDate>Fri, 24 Feb 2017 20:35:51 +0800</pubDate>
       
-      <guid>https://holazxy.com/blog//</guid>
+      <guid>https://holazxy.com/blog/%E4%BD%BF%E7%94%A8wordpress%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2//</guid>
       <description>WordPress： WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。全球约34%的网站都在用WordPress、小到兴趣博客、大到新闻网站，国外的学校里甚至都有WordPress相关的课程。在中国WordPress没有在国外那么火，但是依旧力压群雄，国内有不少网站都是用的WordPress，比如数字中国，爱范儿等。另外WordPress有着将近50000个扩展插件和5000个主题模板，使用WordPress甚至可以搭建一个社区或者商城。
 准备工作：  域名 （网址） 空间（网页寄存） WordPress程序  正文： 购买域名 （网址） 最常见的域名有cn、com、net等，也有比较罕见的比如app、co、io等。 在国内一般通过以下几个运营商进行购买：
  阿里云：https://cn.aliyun.com/ 腾讯云：https://cloud.tencent.com/  在国内，还需要为域名进行备案。工信部域名备案，分为个人备案、企业备案。个人使用自己的身份证及一些书面材料，通过域名运营商即可完成备案。企业备案的话，则需要使用企业营业执照以及法人的相关书面材料完成备案。一般整个备案过程需时7-20天，每个省或地区的审核进度时间不太一样。

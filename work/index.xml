@@ -14,10 +14,10 @@
     
     <item>
       <title>Huayang Website</title>
-      <link>https://holazxy.com/work//</link>
+      <link>https://holazxy.com/work/huayang//</link>
       <pubDate>Wed, 17 Jul 2019 20:35:51 +0800</pubDate>
       
-      <guid>https://holazxy.com/work//</guid>
+      <guid>https://holazxy.com/work/huayang//</guid>
       <description>产品概述 为什么设计 华洋公司现已是中国北方最大的ERW和LSAW钢管制造商，产品销往全国并出口东南亚、中东、欧美等几十个国家和地区。业务的“走出去”的同时，需要一个海外官网让服务“走出去”，同时让商务信息更好的被海外客户所熟识。
 设计目标 他们的⽬标是通过公司的官⽅⽹站提⾼海外客户对华洋产品的了解，其次是在不损害易⽤性的前提下建⽴易于阅读的⽹站。
 功能总览 产品架构 官⽹信息架构分为⼋个导航部分，覆盖了不同的业务功能模块。
@@ -32,10 +32,10 @@
     
     <item>
       <title>在制作中体验模块化设计</title>
-      <link>https://holazxy.com/work/lamps/</link>
+      <link>https://holazxy.com/work/lamps/lamps/</link>
       <pubDate>Fri, 24 Feb 2017 20:35:51 +0800</pubDate>
       
-      <guid>https://holazxy.com/work/lamps/</guid>
+      <guid>https://holazxy.com/work/lamps/lamps/</guid>
       <description>模块化设计是以标准化模块为基本构成单元，在使用过程中，模块相对于传统的零部件磨损更小、更易再制造。
 模块化灯具的出现可以大大缩短产品研发与制造周期，节约材料，同时也可减小包装体积，符合现代节能环保的要求。
 第一阶段：确立方案 12.19/2016
@@ -46,11 +46,11 @@
 在材料的选择上，这里主要考虑筷子与纸板。
 有限预算内，选择纸板是因为从环保卫生角度来考虑，一次性筷子的获取渠道单一，且价格相比纸板来说价格昂贵；而纸板长期不变色，使用植物纤维为原料比较稳定，同时纸板可以从多重途径获得，比如超市，工厂或者废品回收站得到。
 从制作角度来看，筷子比纸板硬度更大，因为是圆柱体，量取精准尺寸上较为困难，裁剪不方便也容易浪费太多造成预算不够。纸板很好测量所需长度，用途和使用范围十分广泛。
-![](static/lamps/lamp_zb1.jpg) ![](static/lamps/lamp_kz.jpg)  在考虑到预算与时间成本，最终选择方案一进行制作。
+![](https://github.com/Scentcir/Figurebed/raw/master/lamps/lamp_zb1.jpg) ![](https://github.com/Scentcir/Figurebed/raw/master/lamps/lamp_kz.jpg)  在考虑到预算与时间成本，最终选择方案一进行制作。
 第二阶段：绘制模型 12.20/2016
 通过实际测量与商品研究了解到市场上的座灯（不包含儿童灯具）平均长度为30CM，底座为14CM，同时以D-TWELVE LAMP的模块尺寸(13CM*13CM)作为参考制作。
 模型制作的工具是Rhino,渲染工具为Keyshot。
-![](static/lamps/lamp_moc.jpg) ![](static/lamps/lamp_mockk.jpg)  第三阶段：制作实物 12.21/2016
+![](https://github.com/Scentcir/Figurebed/raw/master/lamps/lamp_moc.jpg) ![](https://github.com/Scentcir/Figurebed/raw/master/lamps/lamp_mockk.jpg)  第三阶段：制作实物 12.21/2016
 工具：纸板、胶水、灯泡、美工刀、尺。
 利用从各个便利店获得的废弃纸板，裁剪相应成的模块，用胶水拼贴起来。
 总结 在为期三天的制作过程中，同时预算有限的情况下，采用模块化设计可以保持输出模块的一致性，提高了制作的效率。另外，模块化的的组合形式方便模块损坏后进行替换实现了可持续利用、节约资源的目的。</description>

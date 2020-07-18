@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Xiangyuan Zhou</title>
-    <link>http://holazxy.com/tags/</link>
+    <link>https://holazxy.com/tags/</link>
     <description>Recent content in Tags on Xiangyuan Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 17 Jul 2020 00:34:48 +0800</lastBuildDate>
     
-	<atom:link href="http://holazxy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holazxy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>http://holazxy.com/tags/article/</link>
+      <link>https://holazxy.com/tags/article/</link>
       <pubDate>Fri, 17 Jul 2020 00:34:48 +0800</pubDate>
       
-      <guid>http://holazxy.com/tags/article/</guid>
+      <guid>https://holazxy.com/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://holazxy.com/tags/project/</link>
+      <link>https://holazxy.com/tags/project/</link>
       <pubDate>Wed, 17 Jul 2019 20:35:51 +0800</pubDate>
       
-      <guid>http://holazxy.com/tags/project/</guid>
+      <guid>https://holazxy.com/tags/project/</guid>
       <description></description>
     </item>
     

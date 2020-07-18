@@ -14,10 +14,10 @@
     
     <item>
       <title>:Blog Post</title>
-      <link>https://holazxy.com/blog/hugo-integrated-gitment-plugin/</link>
+      <link>https://holazxy.com/blog/blog-post/</link>
       <pubDate>Fri, 17 Jul 2020 00:34:48 +0800</pubDate>
       
-      <guid>https://holazxy.com/blog/hugo-integrated-gitment-plugin/</guid>
+      <guid>https://holazxy.com/blog/blog-post/</guid>
       <description>Default post frontmatter: The title of your post. Default value is generated From the markdown filename title: &amp;ldquo;{{ replace .TranslationBaseName &amp;ldquo;-&amp;rdquo; &amp;quot; &amp;quot; | title }}&amp;rdquo;
 The date the post was created date: {{ .Date }}
 The post filename slug: &amp;quot;&amp;rdquo;

@@ -60,7 +60,7 @@
       "copyrightYear" : "2020",
       "datePublished": "2020-07-17 00:34:48 \u002b0800 CST",
       "dateModified" : "2020-07-17 00:34:48 \u002b0800 CST",
-      "url" : "https:\/\/holazxy.com\/blog\/blog-post\/",
+      "url" : "https:\/\/holazxy.com\/blog\/hugo-integrated-gitment-plugin\/",
       "wordCount" : "91",
       "keywords" : ["Blog"]
     }
@@ -153,6 +153,22 @@
 
           
           
+          div id="git-comments"></div>
+            <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+            <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+          <script>
+             var gitment = new Gitment({
+             id: 'hugo-integrated-gitment-plugin',  
+             owner: 'Scentcir',
+             repo: 'scentcir.github.io',
+             oauth: {
+             client_id: '3a6c1e5df1fdcf811a58',
+             client_secret: 'd24ea7a2283f5c642621e575dcc8bc37e6a9387c',
+                }
+               })
+               gitment.render('git-comments')
+           </script>
+
           <footer class="post__footer">
             
 

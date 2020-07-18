@@ -43,7 +43,7 @@
     { 
       "@context": "http://schema.org", 
       "@type": "WebSite", 
-      "url": "https:\/\/holazxy.com\/work\/%E5%9C%A8%E5%88%B6%E4%BD%9C%E4%B8%AD%E4%BD%93%E9%AA%8C%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1\/\/",
+      "url": "https:\/\/holazxy.com\/work\/%E5%9C%A8%E5%88%B6%E4%BD%9C%E4%B8%AD%E4%BD%93%E9%AA%8C%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1\/hugo-integrated-gitment-plugin\/",
       "name": "在制作中体验模块化设计",
       "author": {
         "@type": "Person",
@@ -159,6 +159,22 @@
 
           
           
+          div id="git-comments"></div>
+            <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+            <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+          <script>
+             var gitment = new Gitment({
+             id: 'hugo-integrated-gitment-plugin',  
+             owner: 'Scentcir',
+             repo: 'scentcir.github.io',
+             oauth: {
+             client_id: '3a6c1e5df1fdcf811a58',
+             client_secret: 'd24ea7a2283f5c642621e575dcc8bc37e6a9387c',
+                }
+               })
+               gitment.render('git-comments')
+           </script>
+
           <footer class="post__footer">
             
 

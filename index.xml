@@ -13,21 +13,6 @@
     
     
     <item>
-      <title>:Blog Post</title>
-      <link>https://holazxy.com/blog/blog-post/</link>
-      <pubDate>Fri, 17 Jul 2020 00:34:48 +0800</pubDate>
-      
-      <guid>https://holazxy.com/blog/blog-post/</guid>
-      <description>Default post frontmatter: The title of your post. Default value is generated From the markdown filename title: &amp;ldquo;{{ replace .TranslationBaseName &amp;ldquo;-&amp;rdquo; &amp;quot; &amp;quot; | title }}&amp;rdquo;
-The date the post was created date: {{ .Date }}
-The post filename slug: &amp;quot;&amp;rdquo;
-Post description used for seo description: &amp;quot;&amp;rdquo;
-Post keywords used for seo keywords: []
-If true, the blog post will not be included in static build draft: true
-Categorize your post with tags tags: []</description>
-    </item>
-    
-    <item>
       <title>Huayang Website</title>
       <link>https://holazxy.com/work/huayang//</link>
       <pubDate>Wed, 17 Jul 2019 20:35:51 +0800</pubDate>
@@ -43,6 +28,19 @@ Categorize your post with tags tags: []</description>
 栅格系统 栅格系统确保了设计结构的组织分明、结构明晰，同时利用栅格系统可以更好的驾驭内容，保持一致性。
 ⼤尺⼨⾼分辨率屏幕的普及，在设计上采⽤了宽度为1170像素的内容区域。在保证传统低分辨率屏幕依然适配的前 提下，将屏幕空间进⾏了最⼤限度的空间利⽤。
 整体效果 </description>
+    </item>
+    
+    <item>
+      <title>“使用Wordpress建立自己的博客”</title>
+      <link>https://holazxy.com/blog//</link>
+      <pubDate>Fri, 24 Feb 2017 20:35:51 +0800</pubDate>
+      
+      <guid>https://holazxy.com/blog//</guid>
+      <description>WordPress： WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。全球约34%的网站都在用WordPress、小到兴趣博客、大到新闻网站，国外的学校里甚至都有WordPress相关的课程。在中国WordPress没有在国外那么火，但是依旧力压群雄，国内有不少网站都是用的WordPress，比如数字中国，爱范儿等。另外WordPress有着将近50000个扩展插件和5000个主题模板，使用WordPress甚至可以搭建一个社区或者商城。
+准备工作：  域名 （网址） 空间（网页寄存） WordPress程序  正文： 购买域名 （网址） 最常见的域名有cn、com、net等，也有比较罕见的比如app、co、io等。 在国内一般通过以下几个运营商进行购买：
+ 阿里云：https://cn.aliyun.com/ 腾讯云：https://cloud.tencent.com/  在国内，还需要为域名进行备案。工信部域名备案，分为个人备案、企业备案。个人使用自己的身份证及一些书面材料，通过域名运营商即可完成备案。企业备案的话，则需要使用企业营业执照以及法人的相关书面材料完成备案。一般整个备案过程需时7-20天，每个省或地区的审核进度时间不太一样。
+如果不想备案也可以选择在国外运营商进行购买：
+ GoDaddy：https://godaddy.com/ （支持微信支付、支付宝） NameSilo：https://www.namesilo.com/（支持微信支付、支付宝） Cloudflare：https://www.cloudflare.com/  空间（网页寄存） 所谓空间，也就是我们说的“虚拟主机”，用来在网上存放你的各种网页文件，这样别人才能访问。</description>
     </item>
     
   </channel>

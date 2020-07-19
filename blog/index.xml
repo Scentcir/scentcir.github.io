@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 24 Jan 2020 20:35:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 15:38:37 +0800</lastBuildDate>
     
 	<atom:link href="https://holazxy.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>“Mac下Hugo &#43; Github Pages 搭建个人博客”</title>
+      <link>https://holazxy.com/blog/hugo//</link>
+      <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>
+      
+      <guid>https://holazxy.com/blog/hugo//</guid>
+      <description>什么是Hugo Hugo是一个用 Go编写的静态网站生成器，2013由 Steve Francia 原创，自 v0.14 (2015年) 由 Bjørn Erik Pedersen 主力开发，并由全球各地的开发者和用户提交贡献。Hugo 一般只需几秒钟就能生成一个网站（每页少于 1 毫秒），被称为“世界上最快的网站构建框架”，也使 Hugo 大受欢迎，成为最热门的静态网站生成器之一，被广泛采用。
+什么是GitHub Pages GitHub Pages是 GitHub提供的一个，于2008年推出。可以用于存放静态网页，包括博客、项目文档甚至整本书。
+步骤  安装Homebrew 安装Hugo 创建Blog 安装Hugo主题 部署到Github Pages  安装Homebrew 什么是Homebrew Homebrew是一款自由及开放源代码的软件包管理系统，用以简化macOS系统上的软件安装过程。
+如何安装Homebrew 官网给出的安装方法：将以下命令粘贴到终端。 不过这个方法不适合国内的Mac用户，网络下载速度太慢。
+/bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)”  解决办法要么科学上网，要么替换镜像源：将以下命令粘贴到终端。
+cd &amp;quot;$(brew --repo)&amp;quot; git remote set-url origin https://mirrors.ustc.edu.cn/brew.git  安装后，可以进行下一步。
+安装Hugo 安装Hugo，将以下命令粘贴到终端。
+brew install hugo  检查安装成功，将以下命令粘贴到终端。
+hugo version  创建Blog 这里的Blog是在本地创建的文件夹，在终端里输入以下命令：
+hugo new site mybolg #mybolg是文件夹名称，可替换  输入以下命令可以看到该文件夹有没有创建成功：</description>
+    </item>
     
     <item>
       <title>使用Wordpress建立自己的博客</title>

@@ -13,6 +13,28 @@
     
     
     <item>
+      <title>My friends</title>
+      <link>https://holazxy.com/friend/friend/</link>
+      <pubDate>Mon, 20 Jul 2020 20:35:51 +0800</pubDate>
+      
+      <guid>https://holazxy.com/friend/friend/</guid>
+      <description>  Tony
+A funny guy    Mike
+A poor guy   </description>
+    </item>
+    
+    <item>
+      <title>Myfriends</title>
+      <link>https://holazxy.com/_friend/</link>
+      <pubDate>Mon, 20 Jul 2020 20:35:51 +0800</pubDate>
+      
+      <guid>https://holazxy.com/_friend/</guid>
+      <description>  Tony
+A funny guy    Mike
+A poor guy   </description>
+    </item>
+    
+    <item>
       <title>Mac下 Hugo&#43;Github Pages 搭建个人博客</title>
       <link>https://holazxy.com/blog/hugo&#43;github//</link>
       <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>

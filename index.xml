@@ -92,5 +92,14 @@ WordPress程序 现在几乎所有的空间服务商提供的空间后台，都�
 总结 在为期三天的制作过程中，同时预算有限的情况下，采用模块化设计可以保持输出模块的一致性，提高了制作的效率。另外，模块化的的组合形式方便模块损坏后进行替换实现了可持续利用、节约资源的目的。</description>
     </item>
     
+    <item>
+      <title>“友情链接”</title>
+      <link>https://holazxy.com/pal/pal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://holazxy.com/pal/pal/</guid>
+      <description>Scentcir</description>
+    </item>
+    
   </channel>
 </rss>

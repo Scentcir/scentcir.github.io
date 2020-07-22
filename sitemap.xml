@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://holazxy.com/</loc>
+    <lastmod>2020-07-19T15:38:37+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://holazxy.com/tags/article/</loc>
     <lastmod>2020-07-19T15:38:37+08:00</lastmod>
   </url>
@@ -13,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://holazxy.com/blog/hugo&#43;github//</loc>
+    <loc>https://holazxy.com/blog/2020-07-19/</loc>
     <lastmod>2020-07-19T15:38:37+08:00</lastmod>
   </url>
   
@@ -23,43 +28,32 @@
   </url>
   
   <url>
-    <loc>https://holazxy.com/</loc>
-    <lastmod>2020-07-16T01:01:49+08:00</lastmod>
+    <loc>https://holazxy.com/blog/2020-02-24/</loc>
+    <lastmod>2020-02-24T20:35:51+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://holazxy.com/blog/wordpress//</loc>
-    <lastmod>2020-01-24T20:35:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://holazxy.com/categories/</loc>
-    <lastmod>2019-07-17T20:35:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://holazxy.com/work/huayang//</loc>
-    <lastmod>2019-07-17T20:35:51+08:00</lastmod>
+    <loc>https://holazxy.com/work/2019-06-17/</loc>
+    <lastmod>2019-06-17T09:19:29-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://holazxy.com/tags/project/</loc>
-    <lastmod>2019-07-17T20:35:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://holazxy.com/categories/work/</loc>
-    <lastmod>2019-07-17T20:35:51+08:00</lastmod>
+    <lastmod>2019-06-17T09:19:29-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://holazxy.com/work/</loc>
-    <lastmod>2019-07-17T20:35:51+08:00</lastmod>
+    <lastmod>2019-06-17T09:19:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://holazxy.com/work/lamps/lamps/</loc>
-    <lastmod>2017-02-24T20:35:51+08:00</lastmod>
+    <loc>https://holazxy.com/work/2017-02-24/</loc>
+    <lastmod>2017-02-24T09:19:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holazxy.com/categories/</loc>
   </url>
   
 </urlset>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Scentcir</title>
-    <link>http://holazxy.com/tags/project/</link>
+    <link>https://holazxy.com/tags/project/</link>
     <description>Recent content in Project on Scentcir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 17 Jun 2019 09:19:29 -0400</lastBuildDate>
     
-	<atom:link href="http://holazxy.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holazxy.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Huayang Website</title>
-      <link>http://holazxy.com/work/2019-06-17/</link>
+      <link>https://holazxy.com/work/2019-06-17/</link>
       <pubDate>Mon, 17 Jun 2019 09:19:29 -0400</pubDate>
       
-      <guid>http://holazxy.com/work/2019-06-17/</guid>
+      <guid>https://holazxy.com/work/2019-06-17/</guid>
       <description>产品概述 为什么设计 华洋公司现已是中国北方最大的ERW和LSAW钢管制造商，产品销往全国并出口东南亚、中东、欧美等几十个国家和地区。业务的“走出去”的同时，需要一个海外官网让服务“走出去”，同时让商务信息更好的被海外客户所熟识。
 设计目标 他们的⽬标是通过公司的官⽅⽹站提⾼海外客户对华洋产品的了解，其次是在不损害易⽤性的前提下建⽴易于阅读的⽹站。
 功能总览 产品架构 官⽹信息架构分为⼋个导航部分，覆盖了不同的业务功能模块。
@@ -32,10 +32,10 @@
     
     <item>
       <title>在制作中体验模块化设计</title>
-      <link>http://holazxy.com/work/2017-02-24/</link>
+      <link>https://holazxy.com/work/2017-02-24/</link>
       <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
       
-      <guid>http://holazxy.com/work/2017-02-24/</guid>
+      <guid>https://holazxy.com/work/2017-02-24/</guid>
       <description>模块化设计是以标准化模块为基本构成单元，在使用过程中，模块相对于传统的零部件磨损更小、更易再制造。
 模块化灯具的出现可以大大缩短产品研发与制造周期，节约材料，同时也可减小包装体积，符合现代节能环保的要求。
 第一阶段：确立方案 12.19/2016

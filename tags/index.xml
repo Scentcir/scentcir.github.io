@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Scentcir</title>
-    <link>http://holazxy.com/tags/</link>
+    <link>https://holazxy.com/tags/</link>
     <description>Recent content in Tags on Scentcir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Sun, 19 Jul 2020 15:38:37 +0800</lastBuildDate>
     
-	<atom:link href="http://holazxy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holazxy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>http://holazxy.com/tags/article/</link>
+      <link>https://holazxy.com/tags/article/</link>
       <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>
       
-      <guid>http://holazxy.com/tags/article/</guid>
+      <guid>https://holazxy.com/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://holazxy.com/tags/project/</link>
+      <link>https://holazxy.com/tags/project/</link>
       <pubDate>Mon, 17 Jun 2019 09:19:29 -0400</pubDate>
       
-      <guid>http://holazxy.com/tags/project/</guid>
+      <guid>https://holazxy.com/tags/project/</guid>
       <description></description>
     </item>
     

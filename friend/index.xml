@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends on Scentcir</title>
+    <link>https://holazxy.com/friend/</link>
+    <description>Recent content in Friends on Scentcir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 24 Feb 2017 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://holazxy.com/friend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>在制作中体验模块化设计</title>
+      <link>https://holazxy.com/friend/friend/</link>
+      <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
+      
+      <guid>https://holazxy.com/friend/friend/</guid>
+      <description>友链</description>
+    </item>
+    
+  </channel>
+</rss>

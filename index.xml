@@ -18,16 +18,7 @@
       <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>
       
       <guid>https://holazxy.com/blog/2020-07-19/</guid>
-      <description>什么是Hugo Hugo是一个用 Go编写的静态网站生成器，2013由 Steve Francia 原创，自 v0.14 (2015年) 由 Bjørn Erik Pedersen 主力开发，并由全球各地的开发者和用户提交贡献。Hugo 一般只需几秒钟就能生成一个网站（每页少于 1 毫秒），被称为“世界上最快的网站构建框架”，也使 Hugo 大受欢迎，成为最热门的静态网站生成器之一，被广泛采用。
-什么是GitHub Pages GitHub Pages是 GitHub提供的一个，于2008年推出。可以用于存放静态网页，包括博客、项目文档甚至整本书。
-步骤  安装Homebrew 安装Hugo 创建Blog 安装Hugo主题 部署到Github Pages  安装Homebrew 什么是Homebrew Homebrew是一款自由及开放源代码的软件包管理系统，用以简化macOS系统上的软件安装过程。
-如何安装Homebrew 官网给出的安装方法：将以下命令粘贴到终端。 不过这个方法不适合国内的Mac用户，网络下载速度太慢。
-/bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)”  解决办法要么科学上网，要么替换镜像源：将以下命令粘贴到终端。
-cd &amp;quot;$(brew --repo)&amp;quot; git remote set-url origin https://mirrors.ustc.edu.cn/brew.git  安装后，可以进行下一步。
-安装Hugo 安装Hugo，将以下命令粘贴到终端。
-brew install hugo  检查安装成功，将以下命令粘贴到终端。
-hugo version  创建Blog 这里的Blog是在本地创建的文件夹，在终端里输入以下命令：
-hugo new site mybolg #mybolg是文件夹名称，可替换  输入以下命令可以看到该文件夹有没有创建成功：</description>
+      <description>什么是Hugo Hugo是一个用 Go编写的静态网站生成器，2013由 Steve Francia 原创，自 v0.14 (2015年) 由 Bjørn Erik Pedersen 主力开发，并由全球各地的开发者</description>
     </item>
     
     <item>
@@ -36,60 +27,34 @@ hugo new site mybolg #mybolg是文件夹名称，可替换  输入以下命令�
       <pubDate>Mon, 24 Feb 2020 20:35:51 +0800</pubDate>
       
       <guid>https://holazxy.com/blog/2020-02-24/</guid>
-      <description>WordPress： WordPress是一个以PHP和MySQL为平台的自由开源的博客软件和内容管理系统。WordPress具有插件架构和模板系统。截至2018年4月，排名前1000万的网站中超过30.6%使用WordPress。WordPress是最受欢迎的网站内容管理系统。全球有大约30%的网站(7亿5000个)都是使用WordPress架设网站的。
-准备工作：  域名 （网址） 空间（网页寄存） WordPress程序  正文： 购买域名 （网址） 最常见的域名有cn、com、net等，也有比较罕见的比如app、co、io等。 在国内一般通过以下几个运营商进行购买：
- 阿里云：https://cn.aliyun.com/ 腾讯云：https://cloud.tencent.com/  在国内，还需要为域名进行备案。工信部域名备案，分为个人备案、企业备案。个人使用自己的身份证及一些书面材料，通过域名运营商即可完成备案。企业备案的话，则需要使用企业营业执照以及法人的相关书面材料完成备案。一般整个备案过程需时7-20天，每个省或地区的审核进度时间不太一样。
-如果不想备案也可以选择在国外运营商进行购买：
- GoDaddy：https://godaddy.com/ （支持微信支付、支付宝） NameSilo：https://www.namesilo.com/（支持微信支付、支付宝） Cloudflare：https://www.cloudflare.com/  空间（网页寄存） 网站是由域名+空间+网页组成的。所以购买域名后，你还要购买服务器空间。对于新手来说，买一个虚拟空间就可以了，用来在网上存放你的各种网页文件，这样别人才能访问。
-对于虚拟主机服务提供商的选择，根据个人的实际要求来选择。顺便说一句，国内的云服务提供商都需要实名认证。
-购买虚拟主机后会得到一个IP地址，在域名管理后台，把域名记录解析到虚拟主机IP地址上(Manage My Domains -&amp;gt; 编辑 DNS)，这样空间和域名就连接在一起了。
-WordPress是主流建站软件，因此虚拟主机都有「一键安裝WP」设计。
-WordPress程序 现在几乎所有的空间服务商提供的空间后台，都有直接安装建站程序的功能，直接点击按钮安装即可。
-安装好后，就可以进入WordPress程序后台，俗称“仪表盘”，熟悉后台各种功能。</description>
+      <description>WordPress： WordPress是一个以PHP和MySQL为平台的自由开源的博客软件和内容管理系统。WordPress具有插件架构和模</description>
     </item>
     
     <item>
       <title>Huayang Website</title>
-      <link>https://holazxy.com/work/2019-06-17/</link>
+      <link>https://holazxy.com/blog/2019-06-17/</link>
       <pubDate>Mon, 17 Jun 2019 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/work/2019-06-17/</guid>
-      <description>产品概述 为什么设计 华洋公司现已是中国北方最大的ERW和LSAW钢管制造商，产品销往全国并出口东南亚、中东、欧美等几十个国家和地区。业务的“走出去”的同时，需要一个海外官网让服务“走出去”，同时让商务信息更好的被海外客户所熟识。
-设计目标 他们的⽬标是通过公司的官⽅⽹站提⾼海外客户对华洋产品的了解，其次是在不损害易⽤性的前提下建⽴易于阅读的⽹站。
-功能总览 产品架构 官⽹信息架构分为⼋个导航部分，覆盖了不同的业务功能模块。
-界面原型 在前期需求沟通时，谁都无法保证会不会出现错误。而进一步能确定这些需求是不是正确的方法就是原型图，然后给客户让他们进一步验证需求的正确性。
-设计规范 颜色 色彩方面，以品牌色蓝色为主，页面区块背景部分用简单的“白-灰-白”进行区分，使主体内容突出的同时减少用户的阅读阻力，提供了更舒适的体验。
-字体 Noto字体完美的支持全世界800种语言，使用同一系列字体可以让版面看起来整齐，以前显示不出来的文字，也都能够正常显示。
-模块 保持输出一致性、提高设计效率。
-栅格系统 栅格系统确保了设计结构的组织分明、结构明晰，同时利用栅格系统可以更好的驾驭内容，保持一致性。
-⼤尺⼨⾼分辨率屏幕的普及，在设计上采⽤了宽度为1170像素的内容区域。在保证传统低分辨率屏幕依然适配的前 提下，将屏幕空间进⾏了最⼤限度的空间利⽤。
-整体效果 </description>
+      <guid>https://holazxy.com/blog/2019-06-17/</guid>
+      <description>产品概述 为什么设计 华洋公司现已是中国北方最大的ERW和LSAW钢管制造商，产品销往全国并出口东南亚、中东、欧美等几十个国家和地区。业务的“走</description>
     </item>
     
     <item>
       <title>在制作中体验模块化设计</title>
-      <link>https://holazxy.com/work/2017-02-24/</link>
+      <link>https://holazxy.com/blog/2017-02-24/</link>
       <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/work/2017-02-24/</guid>
-      <description>模块化设计是以标准化模块为基本构成单元，在使用过程中，模块相对于传统的零部件磨损更小、更易再制造。
-模块化灯具的出现可以大大缩短产品研发与制造周期，节约材料，同时也可减小包装体积，符合现代节能环保的要求。
-第一阶段：确立方案 12.19/2016
-方案一 将立体几何应用在模块化灯具设计中，而在全部的三维形状中，柏拉图多面体被认为是完美的，因其每一面都为正多面形，是最有规律的三维立体。
-如：D-TWELVE模块化灯具,每个模块均是十二面体，其中三面带有磁铁，使用时将彼此的磁铁面相连，并且只需将其中一盏接入电源即可。
-方案二 描绘大自然的生长现象，如蕨类、树皮、松果等。
-如：Poul Henningsen设计的PH Artichoke，灵感来自于洋蓟造型，整座球状灯体是由72片不锈钢或铜质金属叶片包覆而成，依不同的叶片尺寸由上至下共分为12层，每层各6片，每个叶片的固定位置与角度均经过精密的数学程序运算，使其如树叶般的交错堆叠排列，建构出一个光的雕塑，既夺目到让人无法忽视，又不会张扬到抢夺视觉焦点。
-在材料的选择上，这里主要考虑筷子与纸板。
-有限预算内，选择纸板是因为从环保卫生角度来考虑，一次性筷子的获取渠道单一，且价格相比纸板来说价格昂贵；而纸板长期不变色，使用植物纤维为原料比较稳定，同时纸板可以从多重途径获得，比如超市，工厂或者废品回收站得到。
-从制作角度来看，筷子比纸板硬度更大，因为是圆柱体，量取精准尺寸上较为困难，裁剪不方便也容易浪费太多造成预算不够。纸板很好测量所需长度，用途和使用范围十分广泛。
-在考虑到预算与时间成本，最终选择方案一进行制作。
-第二阶段：绘制模型 12.20/2016
-通过实际测量与商品研究了解到市场上的座灯（不包含儿童灯具）平均长度为30CM，底座为14CM，同时以D-TWELVE LAMP的模块尺寸(13CM*13CM)作为参考制作。
-模型制作的工具是Rhino,渲染工具为Keyshot。
-第三阶段：制作实物 12.21/2016
-工具：纸板、胶水、灯泡、美工刀、尺。
-利用从各个便利店获得的废弃纸板，裁剪相应成的模块，用胶水拼贴起来。
-总结 在为期三天的制作过程中，同时预算有限的情况下，采用模块化设计可以保持输出模块的一致性，提高了制作的效率。另外，模块化的的组合形式方便模块损坏后进行替换实现了可持续利用、节约资源的目的。</description>
+      <guid>https://holazxy.com/blog/2017-02-24/</guid>
+      <description>模块化设计是以标准化模块为基本构成单元，在使用过程中，模块相对于传统的零部件磨损更小、更易再制造。 模块化灯具的出现可以大大缩短产品研发与制造</description>
+    </item>
+    
+    <item>
+      <title>在制作中体验模块化设计</title>
+      <link>https://holazxy.com/friend/friend/</link>
+      <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
+      
+      <guid>https://holazxy.com/friend/friend/</guid>
+      <description>友链</description>
     </item>
     
   </channel>

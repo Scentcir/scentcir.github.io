@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Friend</title>
+      <link>https://holazxy.com/link/</link>
+      <pubDate>Thu, 23 Jul 2020 20:35:51 +0800</pubDate>
+      
+      <guid>https://holazxy.com/link/</guid>
+      <description>友链 Holazxy</description>
+    </item>
+    
+    <item>
       <title>Mac下Hugo &#43; Github Pages 搭建个人博客</title>
       <link>https://holazxy.com/blog/2020-07-19/</link>
       <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>
@@ -37,15 +46,6 @@
       
       <guid>https://holazxy.com/blog/2019-06-17/</guid>
       <description>产品概述 为什么设计 华洋公司现已是中国北方最大的ERW和LSAW钢管制造商，产品销往全国并出口东南亚、中东、欧美等几十个国家和地区。业务的“走</description>
-    </item>
-    
-    <item>
-      <title>友链 / 留言</title>
-      <link>https://holazxy.com/friend/</link>
-      <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
-      
-      <guid>https://holazxy.com/friend/</guid>
-      <description>友链 zxy</description>
     </item>
     
     <item>

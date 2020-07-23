@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://holazxy.com/link/</loc>
+    <lastmod>2020-07-23T20:35:51+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://holazxy.com/</loc>
     <lastmod>2020-07-19T15:38:37+08:00</lastmod>
   </url>
@@ -40,11 +45,6 @@
   <url>
     <loc>https://holazxy.com/tags/project/</loc>
     <lastmod>2019-06-17T09:19:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://holazxy.com/friend/</loc>
-    <lastmod>2017-02-24T09:19:29-04:00</lastmod>
   </url>
   
   <url>

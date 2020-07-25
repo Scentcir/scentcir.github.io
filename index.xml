@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sun, 19 Jul 2020 15:38:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 20:35:51 +0800</lastBuildDate>
     
 	<atom:link href="https://holazxy.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>友链 / 留言</title>
-      <link>https://holazxy.com/link/</link>
-      <pubDate>Fri, 24 Jul 2020 20:35:51 +0800</pubDate>
-      
-      <guid>https://holazxy.com/link/</guid>
-      <description>友链 Holazxy Holazxy 联系 如果你有什么想吐槽的或者什么意见，欢迎在此留言😉 如果你没有github账号来使用gitalk评论系统，也可以通过邮箱联系我： holazhouxy@gmail.com</description>
-    </item>
     
     <item>
       <title>Mac下Hugo &#43; Github Pages 搭建个人博客</title>

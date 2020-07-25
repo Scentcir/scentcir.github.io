@@ -38,7 +38,7 @@
     <link type="text/css" rel="stylesheet" href="/css/post.min.679ea46872c2b319c5ae942c601a7330924fd57451c89d621d6cb129c870c2a8.css" integrity="sha256-Z56kaHLCsxnFrpQsYBpzMJJP1XRRyJ1iHWyxKchwwqg="/>
   
     
-    <link type="text/css" rel="stylesheet" href="/css/custom.min.fcb2e42e2cd8706312ee269e533e8f286ea24ae0d87c7fe7ac69955734b325ec.css" integrity="sha256-/LLkLizYcGMS7iaeUz6PKG6iSuDYfH/nrGmVVzSzJew="/>
+    <link type="text/css" rel="stylesheet" href="/css/custom.min.cd6eb91d8c8e045e101c7beb7e94bb38c57ea3ae0d3d82399d3fa9ffd9ff573b.css" integrity="sha256-zW65HYyOBF4QHHvrfpS7OMV&#43;o64NPYI5nT&#43;p/9n/Vzs="/>
   
   
    
@@ -106,7 +106,6 @@
 </nav>
 
 
-
   <main>
     
     
@@ -140,43 +139,33 @@
 <p>官网给出的安装方法：将以下命令粘贴到终端。
 不过这个方法不适合国内的Mac用户，网络下载速度太慢。</p>
 <pre><code>/bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)”
-</code></pre>
-<p>解决办法要么科学上网，要么替换镜像源：将以下命令粘贴到终端。</p>
+</code></pre><p>解决办法要么科学上网，要么替换镜像源：将以下命令粘贴到终端。</p>
 <pre><code>cd &quot;$(brew --repo)&quot;
 git remote set-url origin https://mirrors.ustc.edu.cn/brew.git
-</code></pre>
-<p>安装后，可以进行下一步。</p>
+</code></pre><p>安装后，可以进行下一步。</p>
 <h2 id="安装hugo">安装Hugo<a class="anchor" href="#安装hugo">#</a></h2>
 <p>安装Hugo，将以下命令粘贴到终端。</p>
 <pre><code>brew install hugo
-</code></pre>
-<p>检查安装成功，将以下命令粘贴到终端。</p>
+</code></pre><p>检查安装成功，将以下命令粘贴到终端。</p>
 <pre><code>hugo version
-</code></pre>
-<h2 id="创建blog">创建Blog<a class="anchor" href="#创建blog">#</a></h2>
+</code></pre><h2 id="创建blog">创建Blog<a class="anchor" href="#创建blog">#</a></h2>
 <p>这里的Blog是在本地创建的文件夹，在终端里输入以下命令：</p>
 <pre><code>hugo new site mybolg #mybolg是文件夹名称，可替换
-</code></pre>
-<p>输入以下命令可以看到该文件夹有没有创建成功：</p>
+</code></pre><p>输入以下命令可以看到该文件夹有没有创建成功：</p>
 <pre><code>ls -l
-</code></pre>
-<p>输入以下命令可以进入该文件夹：</p>
+</code></pre><p>输入以下命令可以进入该文件夹：</p>
 <pre><code>cd mybolg/
-</code></pre>
-<p>这样Bolg的站点就在本地生成了。</p>
+</code></pre><p>这样Bolg的站点就在本地生成了。</p>
 <h2 id="安装hugo主题">安装Hugo主题<a class="anchor" href="#安装hugo主题">#</a></h2>
 <p>安装主题可以在<a href="https://gohugo.io/">Hugo官网</a>中找寻，这里以Slim举例，在终端里输入以下命令：</p>
 <pre><code>cd themes
 git clone https://github.com/zhe/hugo-theme-slim slim
-</code></pre>
-<p>下载好了，就可以在mybolg/themes里看到一个新的主题文件夹。
+</code></pre><p>下载好了，就可以在mybolg/themes里看到一个新的主题文件夹。
 在终端输入以下命令，可以生成一个本地站点，将 http://localhost:1313/ 输入浏览器可预览：</p>
 <pre><code>hugo server -D
-</code></pre>
-<p>新建文章：</p>
+</code></pre><p>新建文章：</p>
 <pre><code>hugo new post/blog.md
-</code></pre>
-<h2 id="部署到github-pages">部署到Github Pages<a class="anchor" href="#部署到github-pages">#</a></h2>
+</code></pre><h2 id="部署到github-pages">部署到Github Pages<a class="anchor" href="#部署到github-pages">#</a></h2>
 <p>首先你得有一个Github账号，如果没有的话请注册。
 我在这里使用的是Github Desktop，GitHub Desktop可以不用gitShell就可以提交自己的代码工程，同时可视化的操作，让我觉得很方便。</p>
 <h3 id="安装github-desktop">安装GitHub Desktop<a class="anchor" href="#安装github-desktop">#</a></h3>
@@ -185,8 +174,7 @@ git clone https://github.com/zhe/hugo-theme-slim slim
 <p>这里新建仓库最好是在Github Desktop里面新建，这样远程和本地都会自动生成。仓库名命名必须是yourname.github.io，注意命名规范。</p>
 <p>接着直接在终端（必须是根目录）里面执行：</p>
 <pre><code>hugo
-</code></pre>
-<p>此时，所有的静态页面都会生成到public目录里面。
+</code></pre><p>此时，所有的静态页面都会生成到public目录里面。
 将public目录里的文件全部复制粘贴到本地git仓库里面，在GitHub Desktop点击提交就可以了。</p>
 <h2 id="相关资料">相关资料：<a class="anchor" href="#相关资料">#</a></h2>
 <p>科大LUG：https://lug.ustc.edu.cn/wiki/mirrors/help/brew.git</p>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>友链 / 留言 on Scentcir</title>
-    <link>https://holazxy.com/link/</link>
-    <description>Recent content in 友链 / 留言 on Scentcir</description>
+    <title>About on Scentcir</title>
+    <link>https://holazxy.com/about/</link>
+    <description>Recent content in About on Scentcir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 24 Jul 2020 20:35:51 +0800</lastBuildDate>
     
-	<atom:link href="https://holazxy.com/link/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holazxy.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

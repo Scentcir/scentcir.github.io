@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project on Xiangyuan Zhou</title>
-    <link>https://holazxy.com/tags/project/</link>
-    <description>Recent content in Project on Xiangyuan Zhou</description>
+    <title>Business on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/tags/business/</link>
+    <description>Recent content in Business on Xiangyuan Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>COPYRIGHT © {year}. ALL RIGHTS RESERVED.</copyright>
     <lastBuildDate>Mon, 29 Jul 2019 09:19:29 -0400</lastBuildDate>
     
-	<atom:link href="https://holazxy.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holazxy.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -46,15 +46,6 @@
       
       <guid>https://holazxy.com/blog/2018-11-10/</guid>
       <description>项目背景 2016年10月13日，在杭州云栖大会的开幕式上，马云首次提出“新零售”概念，紧接着，同年11月11日，国务院办公厅印发《关于推动实</description>
-    </item>
-    
-    <item>
-      <title>在制作中体验模块化设计</title>
-      <link>https://holazxy.com/blog/2017-02-24/</link>
-      <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
-      
-      <guid>https://holazxy.com/blog/2017-02-24/</guid>
-      <description>模块化设计是以标准化模块为基本构成单元，在使用过程中，模块相对于传统的零部件磨损更小、更易再制造。 模块化灯具的出现可以大大缩短产品研发与制造</description>
     </item>
     
   </channel>

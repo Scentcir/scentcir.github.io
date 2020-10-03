@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="460px" viewBox="0 0 800 460" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>neutral-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="neutral-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="800" height="460"></rect>
+        <g id="Swatch:-#F95138-Copy" transform="translate(10.000000, 240.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#F95138" fill="#F3F3F4" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#F95138" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#F3F3F4</tspan>
+            </text>
+        </g>
+        <g id="Swatch:-#F95138-Copy-5" transform="translate(210.000000, 240.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#F95138" fill="#FAFBFC" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#F95138" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#FAFBFC</tspan>
+            </text>
+        </g>
+        <g id="Swatch:-#69718D" transform="translate(410.000000, 240.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#69718D" fill="#F0F2F5" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#69718D" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#F0F2F5</tspan>
+            </text>
+        </g>
+        <g id="Swatch:-#F95138-Copy" transform="translate(10.000000, 40.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#F95138" fill="#333333" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#F95138" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#333333</tspan>
+            </text>
+        </g>
+        <g id="Swatch:-#F95138-Copy-5" transform="translate(210.000000, 40.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#F95138" fill="#666666" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#F95138" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#666666</tspan>
+            </text>
+        </g>
+        <g id="Swatch:-#F95138-Copy-2" transform="translate(610.000000, 40.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#F95138" fill="#EAECF1" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#F95138" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#EAECF1</tspan>
+            </text>
+        </g>
+        <g id="Swatch:-#69718D" transform="translate(410.000000, 40.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <polygon id="#69718D" fill="#999999" points="0 0 180 0 180 130 0 130"></polygon>
+            <text id="#69718D" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#999999</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

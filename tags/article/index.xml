@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/tags/article/</link>
+    <description>Recent content in Article on Xiangyuan Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>COPYRIGHT © {year}. ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Sun, 19 Jul 2020 15:38:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://holazxy.com/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo建站笔记</title>
+      <link>https://holazxy.com/blogs/2020-07-19/</link>
+      <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>
+      
+      <guid>https://holazxy.com/blogs/2020-07-19/</guid>
+      <description>什么是Hugo Hugo是一个用 Go编写的静态网站生成器，2013由 Steve Francia 原创，自 v0.14 (2015年) 由 Bjørn Erik Pedersen 主力开发，并由全球各地的开发者</description>
+    </item>
+    
+  </channel>
+</rss>

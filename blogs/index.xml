@@ -7,18 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>COPYRIGHT © {year}. ALL RIGHTS RESERVED.</copyright>
-    <lastBuildDate>Mon, 29 Jul 2019 09:19:29 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 15:38:37 +0800</lastBuildDate>
     
 	<atom:link href="https://holazxy.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>B端/云端数据管理平台</title>
-      <link>https://holazxy.com/blogs/2019-07-29/</link>
-      <pubDate>Mon, 29 Jul 2019 09:19:29 -0400</pubDate>
+      <title>Hugo建站笔记</title>
+      <link>https://holazxy.com/blogs/2020-07-19/</link>
+      <pubDate>Sun, 19 Jul 2020 15:38:37 +0800</pubDate>
       
-      <guid>https://holazxy.com/blogs/2019-07-29/</guid>
-      <description>产品简介 刷新云端数据管理系统是基于物联网、大数据分析、智能硬件研发的一套管理平台，为企业提供数据可视化、监控分析的信息处理。 设计思路 目标用户</description>
+      <guid>https://holazxy.com/blogs/2020-07-19/</guid>
+      <description>什么是Hugo Hugo是一个用 Go编写的静态网站生成器，2013由 Steve Francia 原创，自 v0.14 (2015年) 由 Bjørn Erik Pedersen 主力开发，并由全球各地的开发者</description>
+    </item>
+    
+    <item>
+      <title>B端/云端数据管理平台</title>
+      <link>https://holazxy.com/blogs/2020-01-30/</link>
+      <pubDate>Thu, 30 Jan 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://holazxy.com/blogs/2020-01-30/</guid>
+      <description>产品简介 刷新云端数据管理系统是基于物联网、大数据分析、智能硬件研发的一套管理平台，为企业提供数据可视化、监控分析的信息处理。 设计思路 用户分析</description>
     </item>
     
     <item>

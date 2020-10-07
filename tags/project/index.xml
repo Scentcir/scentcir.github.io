@@ -6,6 +6,7 @@
     <description>Recent content in Project on Xiangyuan Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <copyright>COPYRIGHT © {year}. ALL RIGHTS RESERVED.</copyright>
     <lastBuildDate>Thu, 30 Jan 2020 09:19:29 -0400</lastBuildDate>
     
 	<atom:link href="https://holazxy.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
@@ -13,47 +14,47 @@
     
     <item>
       <title>B端/云端数据管理平台</title>
-      <link>https://holazxy.com/posts/2020-01-30/</link>
+      <link>https://holazxy.com/blogs/2020-01-30/</link>
       <pubDate>Thu, 30 Jan 2020 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/posts/2020-01-30/</guid>
-      <description></description>
+      <guid>https://holazxy.com/blogs/2020-01-30/</guid>
+      <description>产品简介 刷新云端数据管理系统是基于物联网、大数据分析、智能硬件研发的一套管理平台，为企业提供数据可视化、监控分析的信息处理。 设计思路 用户分析</description>
     </item>
     
     <item>
       <title>Huayang Website</title>
-      <link>https://holazxy.com/posts/2019-06-17/</link>
+      <link>https://holazxy.com/blogs/2019-06-17/</link>
       <pubDate>Mon, 17 Jun 2019 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/posts/2019-06-17/</guid>
-      <description></description>
+      <guid>https://holazxy.com/blogs/2019-06-17/</guid>
+      <description>产品概述 为什么设计 华洋公司现已是中国北方最大的ERW和LSAW钢管制造商，产品销往全国并出口东南亚、中东、欧美等几十个国家和地区。业务的“走</description>
     </item>
     
     <item>
       <title>健康App视觉设计</title>
-      <link>https://holazxy.com/posts/2019-04-10/</link>
+      <link>https://holazxy.com/blogs/2019-04-10/</link>
       <pubDate>Wed, 10 Apr 2019 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/posts/2019-04-10/</guid>
-      <description></description>
+      <guid>https://holazxy.com/blogs/2019-04-10/</guid>
+      <description>产品概述 宸邦健康App是全民健康的管理平台，为广大中高端家庭客户提供健康养生管理咨询及医疗服务平台。建立了“家庭健康方案个性定制、专家预约、</description>
     </item>
     
     <item>
       <title>珠宝App项目小结</title>
-      <link>https://holazxy.com/posts/2018-11-10/</link>
+      <link>https://holazxy.com/blogs/2018-11-10/</link>
       <pubDate>Sat, 10 Nov 2018 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/posts/2018-11-10/</guid>
-      <description></description>
+      <guid>https://holazxy.com/blogs/2018-11-10/</guid>
+      <description>项目背景 2018年一股“新零售+”的浪潮开始席卷商业零售以外的行业，借此风口，J.PARK珠宝公园顺应新消费群体追求生活品质化、个性化需求，</description>
     </item>
     
     <item>
       <title>在制作中体验模块化设计</title>
-      <link>https://holazxy.com/posts/2017-02-24/</link>
+      <link>https://holazxy.com/blogs/2017-02-24/</link>
       <pubDate>Fri, 24 Feb 2017 09:19:29 -0400</pubDate>
       
-      <guid>https://holazxy.com/posts/2017-02-24/</guid>
-      <description></description>
+      <guid>https://holazxy.com/blogs/2017-02-24/</guid>
+      <description>模块化设计是以标准化模块为基本构成单元，在使用过程中，模块相对于传统的零部件磨损更小、更易再制造。 模块化灯具的出现可以大大缩短产品研发与制造</description>
     </item>
     
   </channel>

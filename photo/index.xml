@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/photo/</link>
+    <description>Recent content in Photo on Xiangyuan Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>COPYRIGHT © {year}. ALL RIGHTS RESERVED.</copyright>
+    <lastBuildDate>Fri, 24 Jul 2020 20:35:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://holazxy.com/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

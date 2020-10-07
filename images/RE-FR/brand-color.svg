@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="260px" viewBox="0 0 800 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>brand-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="brand-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="800" height="260"></rect>
+        <g id="Swatch:-#FFFFFF" transform="translate(10.000000, 40.000000)">
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,179.5 L179.5,179.5 L179.5,0.5 Z" id="border" stroke="#DEDEDE"></path>
+            <path d="M179.5,0.5 L0.5,0.5 L0.5,129.5 L179.5,129.5 L179.5,0.5 Z" id="#FFFFFF" stroke="#DEDEDE" fill="#245AE6"></path>
+            <text id="#245AE6" font-family="PingFangSC-Regular, PingFang SC" font-size="13" font-weight="normal" fill="#777777">
+                <tspan x="8" y="160">#245AE6</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

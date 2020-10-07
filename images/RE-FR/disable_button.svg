@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="164px" viewBox="0 0 800 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>disable_button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="disable_button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="800" height="164"></rect>
+        <g id="编组-3" opacity="0.65" transform="translate(20.000000, 40.000000)">
+            <g id="编组">
+                <rect id="Bg" fill="#245AE6" x="0" y="0" width="88" height="32" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="16" y="20">主要按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(0.000000, 52.000000)">
+                <rect id="Bg" stroke="#245AE6" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#245AE6">
+                    <tspan x="16" y="20">主要按钮</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(108.000000, 0.000000)">
+                <rect id="Bg" fill="#2CBF77" x="0" y="0" width="88" height="32" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="16" y="20">成功按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(108.000000, 52.000000)">
+                <rect id="Bg" stroke="#2CBF77" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#2CBF77">
+                    <tspan x="16" y="20">成功按钮</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(216.000000, 0.000000)">
+                <rect id="Bg" fill="#FF4D4F" x="0" y="0" width="88" height="32" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="16" y="20">危险按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(216.000000, 52.000000)">
+                <rect id="Bg" stroke="#FF4D4F" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FF4D4F">
+                    <tspan x="16" y="20">成功按钮</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(324.000000, 0.000000)">
+                <rect id="Bg" fill="#FBAD14" x="0" y="0" width="88" height="32" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="16" y="20">警示按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(324.000000, 52.000000)">
+                <rect id="Bg" stroke="#FBAD14" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FBAD14">
+                    <tspan x="16" y="20">警示按钮</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(432.000000, 0.000000)">
+                <rect id="Bg" fill="#3980EA" x="0" y="0" width="88" height="32" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="16" y="20">信息按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(432.000000, 52.000000)">
+                <rect id="Bg" stroke="#3980EA" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#3980EA">
+                    <tspan x="16" y="20">信息按钮</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(540.000000, 0.000000)">
+                <rect id="Bg" fill-opacity="0.15073208" fill="#000000" x="0" y="0" width="88" height="32" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#333333">
+                    <tspan x="16" y="20">普通按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(540.000000, 52.000000)">
+                <rect id="Bg" stroke="#D9D9D9" fill="#EEF2F5" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#333333">
+                    <tspan x="16" y="20">普通按钮</tspan>
+                </text>
+            </g>
+            <g id="编组-2" transform="translate(648.000000, 52.000000)">
+                <rect id="Bg" stroke="#D9D9D9" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="31" rx="4"></rect>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#333333">
+                    <tspan x="16" y="20">默认按钮</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

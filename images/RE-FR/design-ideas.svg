@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="220px" viewBox="0 0 800 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="20" y="40" width="239" height="140" rx="8"></rect>
+        <filter x="-2.9%" y="-3.6%" width="105.9%" height="110.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0634833916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="280" y="40" width="240" height="140" rx="8"></rect>
+        <filter x="-2.9%" y="-3.6%" width="105.8%" height="110.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0634833916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="541" y="40" width="239" height="140" rx="8"></rect>
+        <filter x="-2.9%" y="-3.6%" width="105.9%" height="110.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0634833916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-100.000000, -796.000000)">
+            <g id="编组" transform="translate(100.000000, 796.000000)">
+                <rect id="矩形" fill="#F0F1F4" x="0" y="0" width="800" height="220"></rect>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <text id="业务分析" font-family="AlibabaPuHuiTi-Bold, Alibaba PuHuiTi" font-size="18" font-weight="bold" fill="#333333">
+                    <tspan x="36" y="75">业务分析</tspan>
+                </text>
+                <text id="Business-analysis" font-family="AlibabaPuHuiTi-Regular, Alibaba PuHuiTi" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="36" y="98">BUSINESS ANALYSIS</tspan>
+                </text>
+                <text id="产品分析/用户心理" font-family="AlibabaPuHuiTi-Regular, Alibaba PuHuiTi" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="36" y="159">产品分析/用户心理</tspan>
+                </text>
+                <text id="01" opacity="0.3984375" font-family="AlibabaPuHuiTi-Heavy, Alibaba PuHuiTi" font-size="48" font-weight="600" line-spacing="48" fill="#235AE7">
+                    <tspan x="185" y="166">01</tspan>
+                </text>
+                <text id="搭建价值体系" font-family="AlibabaPuHuiTi-Bold, Alibaba PuHuiTi" font-size="18" font-weight="bold" fill="#333333">
+                    <tspan x="296" y="75">搭建价值体系</tspan>
+                </text>
+                <text id="Build-a-value-system" font-family="AlibabaPuHuiTi-Regular, Alibaba PuHuiTi" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="296" y="98">BUILD A VALUE SYSTEM</tspan>
+                </text>
+                <text id="产品体验/提升效率" font-family="AlibabaPuHuiTi-Regular, Alibaba PuHuiTi" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="296" y="159">产品体验/提升效率</tspan>
+                </text>
+                <text id="02" opacity="0.3984375" font-family="AlibabaPuHuiTi-Heavy, Alibaba PuHuiTi" font-size="48" font-weight="600" line-spacing="48" fill="#235AE7">
+                    <tspan x="446" y="166">02</tspan>
+                </text>
+                <text id="规范化设计" font-family="AlibabaPuHuiTi-Bold, Alibaba PuHuiTi" font-size="18" font-weight="bold" fill="#333333">
+                    <tspan x="557" y="75">规范化设计</tspan>
+                </text>
+                <text id="Standardized-design" font-family="AlibabaPuHuiTi-Regular, Alibaba PuHuiTi" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="557" y="98">STANDARDIZED DESIGN</tspan>
+                </text>
+                <text id="统一组件/优化交互" font-family="AlibabaPuHuiTi-Regular, Alibaba PuHuiTi" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="557" y="159">统一组件/优化交互</tspan>
+                </text>
+                <text id="03" opacity="0.3984375" font-family="AlibabaPuHuiTi-Heavy, Alibaba PuHuiTi" font-size="48" font-weight="600" line-spacing="48" fill="#235AE7">
+                    <tspan x="707" y="166">03</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

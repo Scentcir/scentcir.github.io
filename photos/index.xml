@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/photos/</link>
+    <description>Recent content in Photos on Xiangyuan Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holazxy.com/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WUHAN</title>
+      <link>https://holazxy.com/photos/wuhan/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://holazxy.com/photos/wuhan/</guid>
+      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
+    </item>
+    
+    <item>
+      <title>HONGKONG</title>
+      <link>https://holazxy.com/photos/hongkong/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holazxy.com/photos/hongkong/</guid>
+      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
+    </item>
+    
+  </channel>
+</rss>

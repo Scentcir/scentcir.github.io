@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiangyuan Zhou</title>
-    <link>https://holazxy.com/</link>
-    <description>Recent content on Xiangyuan Zhou</description>
+    <title>Blogs on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/blogs/</link>
+    <description>Recent content in Blogs on Xiangyuan Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Jul 2020 20:35:51 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 09:19:29 -0400</lastBuildDate>
     
-	<atom:link href="https://holazxy.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holazxy.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://holazxy.com/blogs/2020-01-30/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>WUHAN</title>
-      <link>https://holazxy.com/photos/wuhan/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://holazxy.com/photos/wuhan/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
     </item>
     
     <item>
@@ -45,15 +36,6 @@
       
       <guid>https://holazxy.com/blogs/2019-04-10/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>HONGKONG</title>
-      <link>https://holazxy.com/photos/hongkong/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://holazxy.com/photos/hongkong/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
     </item>
     
     <item>

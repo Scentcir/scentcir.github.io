@@ -18,29 +18,8 @@
     
         
         <url>
-            <loc>https://holazxy.com/tags/article/</loc>
-            <lastmod>2020-07-19T15:38:37+08:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://holazxy.com/posts/2020-07-19/</loc>
-            <lastmod>2020-07-19T15:38:37+08:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://holazxy.com/posts/</loc>
-            <lastmod>2020-07-19T15:38:37+08:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://holazxy.com/tags/</loc>
-            <lastmod>2020-07-19T15:38:37+08:00</lastmod>
+            <loc>https://holazxy.com/blogs/</loc>
+            <lastmod>2020-01-30T09:19:29-04:00</lastmod>
         </url>
         
     
@@ -53,7 +32,7 @@
     
         
         <url>
-            <loc>https://holazxy.com/posts/2020-01-30/</loc>
+            <loc>https://holazxy.com/blogs/2020-01-30/</loc>
             <lastmod>2020-01-30T09:19:29-04:00</lastmod>
         </url>
         
@@ -61,6 +40,13 @@
         
         <url>
             <loc>https://holazxy.com/tags/project/</loc>
+            <lastmod>2020-01-30T09:19:29-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://holazxy.com/tags/</loc>
             <lastmod>2020-01-30T09:19:29-04:00</lastmod>
         </url>
         
@@ -81,14 +67,14 @@
     
         
         <url>
-            <loc>https://holazxy.com/posts/2019-06-17/</loc>
+            <loc>https://holazxy.com/blogs/2019-06-17/</loc>
             <lastmod>2019-06-17T09:19:29-04:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://holazxy.com/posts/2019-04-10/</loc>
+            <loc>https://holazxy.com/blogs/2019-04-10/</loc>
             <lastmod>2019-04-10T09:19:29-04:00</lastmod>
         </url>
         
@@ -102,7 +88,7 @@
     
         
         <url>
-            <loc>https://holazxy.com/posts/2018-11-10/</loc>
+            <loc>https://holazxy.com/blogs/2018-11-10/</loc>
             <lastmod>2018-11-10T09:19:29-04:00</lastmod>
         </url>
         
@@ -116,7 +102,7 @@
     
         
         <url>
-            <loc>https://holazxy.com/posts/2017-02-24/</loc>
+            <loc>https://holazxy.com/blogs/2017-02-24/</loc>
             <lastmod>2017-02-24T09:19:29-04:00</lastmod>
         </url>
         

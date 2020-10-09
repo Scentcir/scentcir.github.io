@@ -18,3 +18,8 @@
     font-weight: 500;
 }
 
+.p_date{  
+    font-size: 1.5rem;    
+    line-height: 2em;
+    font-style: italic;
+}

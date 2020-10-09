@@ -138,13 +138,13 @@ figure {
 }
 
 .image-grid {
-    display: grid;
-    grid-template-rows: auto;
-    display: grid;
-    grid-gap: 1em;
-    grid-template-rows: auto;
-    grid-template-columns: repeat(auto-fit,
-            minmax(calc(var(--page-width) / 4), 1fr));
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+    -moz-column-gap: 30px;
+    -webkit-column-gap: 30px;
+    column-gap: 30px;
+    column-width: 25%;
 }
 
 .terminal-prompt::after {

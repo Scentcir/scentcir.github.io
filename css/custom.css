@@ -18,6 +18,42 @@
     font-weight: 500;
 }
 
+.nlist {
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+    -moz-column-gap: 30px;
+    -webkit-column-gap: 30px;
+    column-gap: 30px;
+    column-width: 25%;
+  }
+  
+  .nitem {
+    -moz-page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    break-inside: avoid;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 0 0 30px;
+  }
+  
+  .nitem i {
+    position: relative;
+    display: block;
+    overflow: hidden;
+  }
+  
+  .nitem i img {
+    width: 100%;
+  }
+  
+  .nitem .p-a {
+    margin: 0 0 20px;
+    font-size: 1.8rem;
+    font-style: italic;
+  }
+
 .p_date{  
     font-size: 1.5rem;    
     line-height: 2em;

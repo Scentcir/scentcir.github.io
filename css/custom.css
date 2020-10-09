@@ -18,6 +18,10 @@
     font-weight: 500;
 }
 
+.site-name{
+  color:var(--font-color);
+}
+
 .nlist {
     -moz-column-count: 3;
     -webkit-column-count: 3;

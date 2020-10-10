@@ -1,9 +1,8 @@
-
 :root {
     --global-font-size: 16px;
     --global-font-color: #444;
-    --mono-font-stack:  -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;
-    --font-stack:  -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;
+    --mono-font-stack: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen-Sans, Ubuntu, Cantarell, helvetica neue, sans-serif;
+    --font-stack: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen-Sans, Ubuntu, Cantarell, helvetica neue, sans-serif;
     --global-line-height: 1.6em;
     --page-width: 45em;
     --display-h1-decoration: 1;
@@ -132,7 +131,7 @@ figure {
 .footer {
     clear: both;
     margin-top: 100px;
-    padding-top: 10px;;
+    padding-top: 10px;
     border-top: 1px solid var(--secondary-color);
     color: var(--global-font-color);
 }
@@ -243,6 +242,7 @@ figure {
 
     .footer {
         margin-top: 50px;
-        padding-top: 5px;;
+        padding-top: 5px;
+        ;
     }
 }

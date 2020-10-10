@@ -114,14 +114,14 @@ h1 {
     position: relative;
     display: inline-block;
     display: table-cell;
-    padding: calc(var(--global-space) * 2) 0 calc(var(--global-space) * 2);
+    padding: calc(var(--global-space) * 4) 0 calc(var(--global-space) * 2);
     margin: 0;
     overflow: hidden;
     font-weight: 600
 }
 
 h1::after {
-    content: "====================================================================================================";
+    content: "";
     position: absolute;
     bottom: 5px;
     left: 0;

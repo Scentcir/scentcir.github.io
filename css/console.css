@@ -5,7 +5,7 @@
     --mono-font-stack:  -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;
     --font-stack:  -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;
     --global-line-height: 1.6em;
-    --page-width: 50em;
+    --page-width: 45em;
     --display-h1-decoration: 1;
     --code-bg-color: #fff;
 }
@@ -185,7 +185,7 @@ figure {
 
 @media only screen and (max-width: 850px) {
     .site-name {
-        width: 2ch;
+        width: 3ch;
         overflow: hidden;
         display: inline-block;
     }

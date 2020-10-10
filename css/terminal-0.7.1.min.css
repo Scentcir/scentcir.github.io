@@ -109,7 +109,17 @@ ul {
     margin-bottom: calc(var(--global-space) * 2)
 }
 
-.logo,
+.logo{
+    position: relative;
+    display: inline-block;
+    display: table-cell;
+    padding: calc(var(--global-space) * 2) 0 calc(var(--global-space) * 2);
+    margin: 0;
+    overflow: hidden;
+    font-weight: 600
+}
+
+
 h1 {
     position: relative;
     display: inline-block;

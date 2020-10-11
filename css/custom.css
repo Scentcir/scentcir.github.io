@@ -11,28 +11,32 @@ body::-webkit-scrollbar {
   overflow: auto;
 }
 
+.terminal-nav{
+  text-transform: uppercase;
+}
+
 .terminal h1 {
-  font-size: 1.5em;
+  font-size: 1.75em;
   font-weight: 400;
 }
 
 .terminal h2 {
-  font-size: 24px;
+  font-size: 1.5em;
   font-weight: 700;
 }
 
 .terminal h3 {
-  font-size: 20px;
+  font-size: 1.25em;
   font-weight: 500;
 }
 
 .terminal h4 {
-  font-size: 18px;
+  font-size: 1.125em;
   font-weight: 500;
 }
 
-.terminal h4 {
-  font-size: 16px;
+.terminal h5 {
+  font-size: 1em;
   font-weight: 500;
 }
 

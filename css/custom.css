@@ -130,11 +130,11 @@ body::-webkit-scrollbar {
   padding-left: 15px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 640px) {
   .post {
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
     margin-bottom: 3rem !important;
     width: 100%;
     padding-right: 15px;
@@ -149,7 +149,14 @@ body::-webkit-scrollbar {
   position: relative;
 }
 
-a img{
+@media only screen and (max-width: 400px) {
+  .img-fluid {
+    width: 100%;
+    height: 240px;
+  }
+}
+
+a img {
   transition: box-shadow .25s ease-in;
   -moz-transition: box-shadow .25s ease-in;
   -webkit-transition: box-shadow .25s ease-in;
@@ -159,24 +166,24 @@ a img:hover {
   box-shadow: 0 12px 65px 2px rgba(41, 99, 255, 0.30), 0 1px 2px 1px rgba(41, 99, 255, 0.09);
 }
 
-.tt-t{
+.tt-t {
   font-size: 1.25rem;
   font-weight: 500;
 }
 
-.posts-list .date{
+.posts-list .date {
   font-size: .8rem;
   color: #969696;
   font-weight: 400;
 }
 
-.posts-list a{
+.posts-list a {
   color: var(--font-color);
 }
 
-.posts-list a:hover{
+.posts-list a:hover {
   background-color: transparent;
-    color: var(--font-color);
+  color: var(--font-color);
 }
 
 .story-footer {
@@ -190,3 +197,24 @@ a img:hover {
   color: #969696;
   padding: 5% 0 0 0;
   text-transform: uppercase;
+}
+
+.story-footer  .button {
+  border: 1px solid #2963ff;
+  height: 38px;
+  padding: 0 30px;
+  border-radius: 4px;
+  display: inline-block;
+  line-height: 38px;
+  box-shadow: 0 5px 20px rgba(41, 99, 255, 0);
+}
+
+.story-footer  .button:hover{
+  transition: background-color 0.25s ease;
+  -moz-transition: background-color .25s ease;
+  -webkit-transition: background-color .25s ease;
+  color: #FFF;
+  background-color: var(--primary-color);;
+  box-shadow: 0 5px 20px rgba(41, 99, 255, 0.30);
+  outline: 0;
+}

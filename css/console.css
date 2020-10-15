@@ -4,7 +4,7 @@
     --mono-font-stack: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen-Sans, Ubuntu, Cantarell, helvetica neue, sans-serif;
     --font-stack: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen-Sans, Ubuntu, Cantarell, helvetica neue, sans-serif;
     --global-line-height: 1.6em;
-    --page-width: 50em;
+    --page-width: 60em;
     --display-h1-decoration: 1;
     --code-bg-color: #fff;
 }
@@ -163,7 +163,7 @@ figure {
 
 .posts-list {
     position: relative;
-    padding-left: 150px;
+   /* padding-left: 150px;*/
     top: 0;
     margin-top: 21px;
 }
@@ -174,7 +174,7 @@ figure {
 
 .posts-list .date {
     display: inline-block;
-    position: absolute;
+   /* position: absolute; */
     left: 0px;
     width: 150px;
     z-index: 400;

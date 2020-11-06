@@ -11,13 +11,19 @@ body::-webkit-scrollbar {
   overflow: auto;
 }
 
+html,
+body {
+  overflow: hidden;
+  overflow-y: auto;
+}
+
 .terminal-nav {
   text-transform: uppercase;
 }
 
 .terminal h1 {
   font-size: 1.75em;
-  font-weight:bold;
+  font-weight: bold;
 }
 
 .terminal h2 {
@@ -46,11 +52,11 @@ body::-webkit-scrollbar {
   font-weight: bold;
 }
 
-.terminal-menu li a:not(.btn){
+.terminal-menu li a:not(.btn) {
   font-weight: bold;
 }
 
-.container{
+.container {
   margin-top: 2rem;
 }
 
@@ -210,7 +216,7 @@ a img:hover {
   text-transform: uppercase;
 }
 
-.story-footer  .button {
+.story-footer .button {
   border: 1px solid #2963ff;
   height: 38px;
   padding: 0 30px;
@@ -220,12 +226,13 @@ a img:hover {
   box-shadow: 0 5px 20px rgba(41, 99, 255, 0);
 }
 
-.story-footer  .button:hover{
+.story-footer .button:hover {
   transition: background-color 0.25s ease;
   -moz-transition: background-color .25s ease;
   -webkit-transition: background-color .25s ease;
   color: #FFF;
-  background-color: var(--primary-color);;
+  background-color: var(--primary-color);
+  ;
   box-shadow: 0 5px 20px rgba(41, 99, 255, 0.30);
   outline: 0;
 }

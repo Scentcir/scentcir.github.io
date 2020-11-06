@@ -236,3 +236,32 @@ a img:hover {
   box-shadow: 0 5px 20px rgba(41, 99, 255, 0.30);
   outline: 0;
 }
+
+.footer{
+  padding-bottom: 2rem;
+  line-height: 2em;
+}
+
+._row{
+  display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.info{
+  text-align: left;
+  flex-grow: 0;
+}
+
+.copyright{
+  text-align: right;
+  flex-grow: 1;
+}
+
+@media only screen and (max-width: 768px) {
+  .copyright{
+    text-align: left;
+    flex-grow: 1;
+  }
+}

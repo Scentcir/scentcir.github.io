@@ -17,7 +17,7 @@ body::-webkit-scrollbar {
 
 .terminal h1 {
   font-size: 1.75em;
-  font-weight: 400;
+  font-weight:bold;
 }
 
 .terminal h2 {
@@ -42,6 +42,16 @@ body::-webkit-scrollbar {
 
 .site-name {
   color: var(--font-color);
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.terminal-menu li a:not(.btn){
+  font-weight: bold;
+}
+
+.container{
+  margin-top: 2rem;
 }
 
 .nlist {
@@ -145,7 +155,7 @@ body::-webkit-scrollbar {
 
 .img-fluid {
   width: 100%;
-  height: 240px;
+  height: 280px;
   object-fit: cover;
   position: relative;
 }

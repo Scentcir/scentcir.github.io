@@ -54,6 +54,7 @@ body {
 
 .terminal-menu li a:not(.btn) {
   font-weight: bold;
+  color: var(--font-color);
 }
 
 .container {
@@ -237,30 +238,30 @@ a img:hover {
   outline: 0;
 }
 
-.footer{
+.footer {
   padding-bottom: 2rem;
   line-height: 2em;
 }
 
-._row{
+._row {
   display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 
-.info{
+.info {
   text-align: left;
   flex-grow: 0;
 }
 
-.copyright{
+.copyright {
   text-align: right;
   flex-grow: 1;
 }
 
 @media only screen and (max-width: 768px) {
-  .copyright{
+  .copyright {
     text-align: left;
     flex-grow: 1;
   }

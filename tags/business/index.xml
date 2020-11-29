@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/tags/business/</link>
+    <description>Recent content in Business on Xiangyuan Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Jun 2019 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://holazxy.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Huayang Website</title>
+      <link>https://holazxy.com/blogs/huayang-website/</link>
+      <pubDate>Mon, 17 Jun 2019 09:19:29 -0400</pubDate>
+      
+      <guid>https://holazxy.com/blogs/huayang-website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Xiangyuan Zhou</title>
+    <link>https://holazxy.com/tags/business/</link>
+    <description>Recent content in Business on Xiangyuan Zhou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Jan 2020 09:19:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://holazxy.com/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B端/云端数据管理平台</title>
+      <link>https://holazxy.com/work/cloud-management-platform/</link>
+      <pubDate>Thu, 30 Jan 2020 09:19:29 -0400</pubDate>
+      
+      <guid>https://holazxy.com/work/cloud-management-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huayang Website</title>
+      <link>https://holazxy.com/work/huayang-website/</link>
+      <pubDate>Mon, 17 Jun 2019 09:19:29 -0400</pubDate>
+      
+      <guid>https://holazxy.com/work/huayang-website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
